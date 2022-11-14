@@ -8,7 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/* HEADER SECTION */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,7 +24,6 @@ body {
     color: #d9dcd6;
 }
 
-/* increased padding to align closer to center like example */
 .header div {
     padding-top: 30px;
     margin-right: 20px;
@@ -43,7 +41,6 @@ body {
     margin-left: 15px;
 }
 
-/* general formatting */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -63,7 +60,6 @@ p {
     margin-left: 25px;
 }
 
-/* LANDING IMAGE SECTION - Renamed for clarity, but I'm sure he's someones 'hero' */
 .landing_image {
     height: 800px;
     width: 100%;
@@ -73,7 +69,6 @@ p {
     background-position: center;
 }
 
-/* CONTENT SECTION */
 .content {
     display: inline-block;
     margin-left: 2vw;
@@ -95,14 +90,12 @@ p {
     max-height: 200px;
 }
 
-/* added 0 margin to top to align top of header with top of image like example */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
     margin-top: 0;
 }
 
-/* BENEFITS SECTION */
 .benefits {
     margin-right: 2vw;
     margin-bottom: 32px;
@@ -127,7 +120,6 @@ p {
     max-width: 150px;
 }
 
-/* FOOTER SECTION */
 .footer {
     padding: 30px;
     clear: both;
@@ -137,4 +129,4 @@ p {
 
  .footer h2 {
     font-size: 20px;
-} 
+}
